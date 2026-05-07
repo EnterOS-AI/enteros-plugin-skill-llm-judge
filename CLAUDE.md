@@ -79,7 +79,7 @@ If the score is below threshold, the skill returns a denial with the judge's rea
 ### Setup
 
 ```bash
-git clone https://github.com/Molecule-AI/molecule-ai-plugin-molecule-skill-llm-judge.git
+git clone https://git.moleculesai.app/molecule-ai/molecule-ai-plugin-molecule-skill-llm-judge.git
 cd molecule-ai-plugin-molecule-skill-llm-judge
 python3 -c "import yaml; yaml.safe_load(open('plugin.yaml'))"
 ```
